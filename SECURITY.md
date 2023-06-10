@@ -2,7 +2,7 @@
 
 ## Reporting Security Issues
 
-If you've found a security issue in Dogu, Gamium, or other SDKs, please do not open GitHub issues or pull requests.
+**Please do not open GitHub issues or pull requests** if you've found a security issue in Dogu, Gamium, or other SDKs,
 You can submit your report to `contact@dogutech.io` via email.
 
 Please include as much information as possible in your report to better help us understand and resolve the issue:
